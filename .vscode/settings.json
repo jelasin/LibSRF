@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "string": "c",
+        "limits": "c",
+        "memory": "c",
+        "new": "c",
+        "functional": "c",
+        "stdlib.h": "c",
+        "ring_queue.h": "c",
+        "type_traits": "cpp",
+        "cmath": "cpp",
+        "utility": "cpp",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "vector": "c",
+        "stdio.h": "c",
+        "typeinfo": "cpp",
+        "shmfifo.h": "c",
+        "errno.h": "c",
+        "algorithm": "c",
+        "string.h": "c",
+        "random": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
